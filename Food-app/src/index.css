@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* importing a font from fonts.googleapis.com */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+/* chaning background color */
+body {
+  background-color :white;
+  font-family: 'Roboto', 'Segeo UI' ,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
