@@ -6,6 +6,7 @@ const Navbar = () => {
         <h1 className='text-black text-4xl font-bold cursor-pointer'>Adjacent-technologies</h1>
         <div>
             <button className='text-black pr-4'>Recipes</button>
+            <button className='text-black pr-4'>About</button>
         </div>
         <div>
             <button className='text-black pr-4'>Sign In</button>
